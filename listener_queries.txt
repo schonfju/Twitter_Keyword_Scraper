@@ -1,0 +1,8 @@
+vaccine	vaccine
+measles	vaccine
+MMR	vaccine
+shot	shots
+needle	shots
+jab	shots
+forest forest
+scissors	control
